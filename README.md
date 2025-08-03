@@ -1,0 +1,1 @@
+Speech Bridge is a smart tool that listens to spoken words, understands them, and translates them into different languages. It helps break language barriers by making communication easier and faster whether someone are traveling, learning a new language, or talking to someone who speaks differently.With Speech Bridge, our voice becomes a universal bridge.
